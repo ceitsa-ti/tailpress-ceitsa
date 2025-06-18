@@ -14,3 +14,7 @@ A custom, Gutenberg-ready WordPress theme for CEITSA (Comercializadora Electrome
 - **Responsive and accessible**: Designed for fast, inclusive browsing across devices.
 
 ---
+
+
+Let me know if you'd like adjustments or additions—like code samples, screenshots, or workflow diagrams!
+::contentReference[oaicite:4]{index=4}
